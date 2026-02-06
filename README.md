@@ -85,7 +85,7 @@ These datasets are merged to form a single cleaned dataset used for analysis.
 
 ## Output Files
 
-- `cleaned_marketing_data.csv` – Final cleaned and validated dataset
+- `cleaned_marketing_data.csv` – Final cleaned and validated dataset (File inserted)
 - Jupyter Notebook / Colab file – Full analysis and model development
 
 ---
@@ -94,20 +94,14 @@ These datasets are merged to form a single cleaned dataset used for analysis.
 
 - Practical experience in real-world data cleaning and validation
 - Understanding business-driven data analysis
-- Exploratory analysis before applying machine learning
-- Importance of simple baseline models in ML projects
+- Exploratory analysis 
 
 ---
-
-## Project Status
-
-- Data collection, cleaning, validation, EDA, visualization, and baseline modeling completed
-- Advanced modeling and deployment can be explored as future work
 
 ---
 
 ## Author
 
-**[Your Name]**
+**[Ketaki Shirgave]**
 
 Data Science Intern
