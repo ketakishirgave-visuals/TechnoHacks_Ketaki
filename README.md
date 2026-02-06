@@ -18,8 +18,6 @@ The project follows a step-by-step data science workflow, similar to a real-worl
 - Perform exploratory data analysis (EDA)
 - Analyze key business metrics such as ROI, CTR, and conversion rate
 - Visualize trends and patterns in campaign performance
-- Build a basic machine learning model for purchase prediction
-
 ---
 
 ## Dataset Description
@@ -41,7 +39,6 @@ These datasets are merged to form a single cleaned dataset used for analysis.
 - NumPy
 - Matplotlib
 - Seaborn
-- Scikit-learn
 - Google Colab
 
 ---
@@ -83,12 +80,6 @@ These datasets are merged to form a single cleaned dataset used for analysis.
 - Identified top-performing campaign types
 - Analyzed customer segments with higher conversion rates
 - Observed seasonal and time-based performance patterns
-
-### 7. Machine Learning Model Development
-
-- Built a baseline Logistic Regression model
-- Used engagement metrics (impressions, clicks, discounts, CTR)
-- Evaluated performance using accuracy as a baseline metric
 
 ---
 
